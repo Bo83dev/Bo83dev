@@ -1,6 +1,7 @@
 ### Welcome to my GitHub profile! 👋
 
-My name is Carol and I'm a Frontend Developer.
+My name is Carol and I am a frontend developer who loves learn new languages and technologies.
+
 
 
 ## The technologies I work with:
@@ -14,7 +15,6 @@ My name is Carol and I'm a Frontend Developer.
   <img align="center" alt="VsCode" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Git" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="GitHub" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-
 </div>
  
  <br>
