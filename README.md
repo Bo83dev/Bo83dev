@@ -1,4 +1,8 @@
-### Welcome! 👋
+### Welcome to my GitHub profile! 👋
+
+My name is Carol and I'm a Frontend Developer.
+
+### The technologies I'm current learning:
 
 
 <div style="display: inline_block"><br>
@@ -9,7 +13,7 @@
  
  <br>
  
-### To contact me! 😊
+### To reach me! 😊
  
 <div> 
   <a href = "mailto:cbarbosavilar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -20,6 +24,8 @@
 </div>
 
 <br>
+  
+### Work in progress!
   
 <div>
   <a href="https://github.com/Bo83dev">
