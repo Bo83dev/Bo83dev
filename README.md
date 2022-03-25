@@ -1,4 +1,4 @@
-### Welcome to my GitHub profile! 👋
+### Welcome to my profile! 👋
 
 My name is Carol and I am a frontend developer who loves learn new languages and technologies.
 
