@@ -4,7 +4,7 @@ My name is Carol and I am a frontend developer who loves learn new languages and
 
 
 
-## The technologies I work with:
+## The technologies and frameworks I work with:
 
 
 <div style="display: inline_block"><br>
