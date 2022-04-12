@@ -18,14 +18,7 @@ My name is Carol and I am a frontend developer who loves learn new languages and
 </div>
  
  <br>
- 
-### To reach me! 😊
- 
-<div> 
-  <a href = "mailto:cbarbosavilar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carolinebarbosavilar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-<!--   ![Snake animation](https://github.com/Bo83dev/Bo83dev/blob/output/github-contribution-grid-snake.svg)
+ <!--   ![Snake animation](https://github.com/Bo83dev/Bo83dev/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
@@ -38,3 +31,10 @@ My name is Carol and I am a frontend developer who loves learn new languages and
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bo83dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>  -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bo83dev&layout=compact&langs_count=6&theme=radical"/>
 </div>
+
+  ### To reach me! 😊
+ 
+<div> 
+  <a href = "mailto:cbarbosavilar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carolinebarbosavilar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
