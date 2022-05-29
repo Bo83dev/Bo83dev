@@ -1,6 +1,6 @@
 ### Welcome to my profile! 👋
 
-My name is Carol and I am a frontend developer who loves learn new languages and technologies.
+I am Carol, a curious Frontend developer who loves to learn new technologies.
 
 
 
