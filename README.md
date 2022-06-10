@@ -17,13 +17,10 @@ I am Carol, a curious Frontend developer who loves to code and learn new technol
   <img align="center" alt="Git" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="GitHub" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   
-</div>
- 
- <br>
-   [Snake animation](https://github.com/Bo83dev/Bo83dev/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
+<!-- </div>
+    [Snake animation](https://github.com/Bo83dev/Bo83dev/blob/output/github-contribution-grid-snake.svg)
+ </div>
+ -->
 <br>
   
 ### Work in progress!
