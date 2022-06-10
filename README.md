@@ -20,17 +20,17 @@ I am Carol, a curious Frontend developer who loves to learn new technologies.
 </div>
  
  <br>
- <!--   ![Snake animation](https://github.com/Bo83dev/Bo83dev/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/Bo83dev/Bo83dev/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
-<br> -->
+<br>
   
 ### Work in progress!
   
 <div>
   <a href="https://github.com/Bo83dev">
-<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bo83dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>  -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bo83dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bo83dev&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
