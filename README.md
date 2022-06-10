@@ -20,7 +20,7 @@ I am Carol, a curious Frontend developer who loves to code and learn new technol
 </div>
  
  <br>
-   ![Snake animation](https://github.com/Bo83dev/Bo83dev/blob/output/github-contribution-grid-snake.svg)
+   [Snake animation](https://github.com/Bo83dev/Bo83dev/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
