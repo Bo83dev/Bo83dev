@@ -27,7 +27,7 @@ I am Carol, a curious Frontend developer who loves to code and learn new technol
   
 <div>
   <a href="https://github.com/Bo83dev">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bo83dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>  -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bo83dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bo83dev&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
