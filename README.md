@@ -3,7 +3,6 @@
 I am Carol, a curious Frontend developer who loves to code and learn new technologies.
 
 
-
 ## The technologies, libs and frameworks I work with:
 
 
