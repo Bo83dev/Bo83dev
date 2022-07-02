@@ -30,7 +30,7 @@ I am Carol, a curious Frontend developer who loves to code and learn new technol
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caroline-Barbosa-Vilar&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
-  ### To reach me! 😊
+  ### To contact me! 😊
  
 <div> 
   <a href = "mailto:cbarbosavilar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
