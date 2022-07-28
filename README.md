@@ -1,7 +1,13 @@
-### Welcome to my profile! 👋
+### Welcome to this profile! 👋
 
-I am a curious Frontend developer who loves to code and learn new technologies.
+I am a curious developer who loves coding and learning new technologies.
 
+Here I post the exercises from the courses I take and the projects I develop to exercise and practice what I learn in this path of professional and personal development.
+
+
+<!-- In this other profile I post my solutions to challenges on websites as a [Frontend Mentor](https://www.frontendmentor.io/) , [100 days CSS](https://100dayscss.com/), [Frontend Practice](https://www.frontendpractice.com/) and [Dev Challenges](https://devchallenges.io/) -->
+
+<br>
 
 ## The technologies, libs and frameworks I work with:
 
@@ -17,6 +23,8 @@ I am a curious Frontend developer who loves to code and learn new technologies.
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
+<br>
+
 <!-- </div>
     [Snake animation](https://github.com/Bo83dev/Bo83dev/blob/output/github-contribution-grid-snake.svg)
  </div>
@@ -31,9 +39,11 @@ I am a curious Frontend developer who loves to code and learn new technologies.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caroline-Barbosa-Vilar&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
-  ### To contact me! 😊
+<br>
+
+### To contact me! 😊
  
 <div> 
   <a href = "mailto:cbarbosavilar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carolinebarbosavilar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+</div>
