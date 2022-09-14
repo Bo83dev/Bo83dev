@@ -2,7 +2,7 @@
 
 I am a curious developer who loves coding and learning new technologies.
 
-Here I post the exercises from the courses I take and the projects I develop to exercise and practice what I learn in this path of professional and personal development.
+In these repositories are the projects I have developed and the exercises created to practice and implement what I learn in the courses I take, in order to enhance my professional and personal development.
 
 
 <!-- In this other profile I post my solutions to challenges on websites as a [Frontend Mentor](https://www.frontendmentor.io/) , [100 days CSS](https://100dayscss.com/), [Frontend Practice](https://www.frontendpractice.com/) and [Dev Challenges](https://devchallenges.io/) -->
