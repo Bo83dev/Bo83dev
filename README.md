@@ -9,7 +9,7 @@ In these repositories are the projects I have developed and the exercises create
 
 <br>
 
-## The technologies, libs and frameworks I work with:
+## The technologies, languages libs and frameworks I work with:
 
 
 <div style="display: inline_block"><br>
