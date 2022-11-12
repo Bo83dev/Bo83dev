@@ -16,7 +16,7 @@ In these repositories are the projects I have developed and the exercises create
   <img align="center" alt="Figma-icon" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="VsCode-icon" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Git-icon" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="GitHub-icon" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<!--   <img align="center" alt="GitHub-icon" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> -->
   <img align="center" alt="HTML-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="bootstrap-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
