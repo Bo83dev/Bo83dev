@@ -41,9 +41,9 @@ In these repositories are the projects I have developed and the exercises create
   <a href="https://www.linkedin.com/in/carolinebarbosavilar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<br>
+<!-- <br>
 
 <div>
     [Snake animation](https://github.com/Caroline-Barbosa-Vilar/Caroline-Barbosa-Vilar/blob/output/github-contribution-grid-snake.svg)
     [Snake animation](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
- </div>  
+ </div> --> 
