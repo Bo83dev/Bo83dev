@@ -43,7 +43,7 @@ In these repositories are the projects I have developed and the exercises create
 
 <br>
 
-</div>
+<div>
     [Snake animation](https://github.com/Caroline-Barbosa-Vilar/Caroline-Barbosa-Vilar/blob/output/github-contribution-grid-snake.svg)
     [Snake animation](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
  </div>  
